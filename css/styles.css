@@ -99,20 +99,39 @@ body {
   border: 1.5px solid #2c2830;
 }
 /*************** HEADER ********************/
-
+.main-sections{
+  background-image: url("../images/Group\ 17.svg");
+  background-repeat: no-repeat;
+  background-position: -120% 50%;
+  background-size: 1100px 649px;
+}
 /*************** BANNER ********************/
 .banner {
+  /* padding-top: 105px; */
   background-color: #2d2641;
+  background-image: url("../images/Group\ 17.svg");
+  background-size: 697px 649px;
+  background-repeat: no-repeat;
+  background-position: 100% -100px;
 }
-.banner-wrapper {
-  justify-content: space-between;
-  align-items: center;
-}
+
 .banner-left {
+  margin-right: 30px;
+  padding-top: 127px;
   width: 540px;
 }
+
+.banner-left::before {
+  content: "";
+  display: block;
+  height: 1px;
+  width: 150px;
+  background-color: #fff;
+}
+
 .banner-left-title {
   margin: 0 0 16px 0;
+  margin-top: 63px;
   font-style: normal;
   font-family: "DM Serif Display", sans-serif;
   font-weight: 400;
@@ -155,6 +174,7 @@ body {
   padding-top: 305px;
   padding-bottom: 158px;
 }
+
 .line {
   display: block;
   width: 150px;
@@ -171,8 +191,27 @@ body {
   width: 350px;
   list-style: none;
 }
+
+.about-item::before {
+  content: "";
+  display: block;
+  width: 86px;
+  height: 86px;
+  background-color: #888;
+  border-radius: 50%;
+}
+.about-item:nth-child(1)::before {
+  background-image: url("../images/about_section/lightning.svg");
+}
+.about-item:nth-child(2)::before {
+  background-image: url("../images/about_section/insure-dollar-logo-img.png");
+}
 .about-item:nth-child(2) {
   margin: 0 30px;
+}
+
+.about-item:nth-child(3)::before {
+  background-image: url("../images/about_section/user.svg");
 }
 .about-title {
   margin-bottom: 96px;
@@ -210,7 +249,11 @@ body {
 .site-article {
   margin-bottom: 150px;
   padding: 69px 80px;
-  background: #2d2641;
+  background-color: #2d2641;
+  background-image: url("../images/Group\ 17.svg");
+  background-position: 150%;
+  background-size: 765px 713px;
+  background-repeat: no-repeat;
 }
 .article-inner {
   display: flex;
