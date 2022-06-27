@@ -1,3 +1,28 @@
+@font-face {
+  font-family: "Karla";
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/karla-v22-latin-regular.woff2") format("woff2")
+    url("../fonts/karla-v22-latin-regular.woff") format("woff");
+}
+/* karla-700 - latin */
+@font-face {
+  font-family: "Karla";
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/karla-v22-latin-700.woff2") format("woff2")
+    url("../fonts/karla-v22-latin-700.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/dm-serif-display-v10-latin-regular.woff2") format("woff2"),
+    url("../fonts/dm-serif-display-v10-latin-regular.woff") format("woff");
+}
+
 * {
   box-sizing: border-box;
 }
@@ -99,7 +124,7 @@ body {
   border: 1.5px solid #2c2830;
 }
 /*************** HEADER ********************/
-.main-sections{
+.main-sections {
   background-image: url("../images/Group\ 17.svg");
   background-repeat: no-repeat;
   background-position: -120% 50%;
