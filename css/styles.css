@@ -124,12 +124,7 @@ body {
   border: 1.5px solid #2c2830;
 }
 /*************** HEADER ********************/
-.main-sections {
-  background-image: url("../images/Group\ 17.svg");
-  background-repeat: no-repeat;
-  background-position: -120% 50%;
-  background-size: 1100px 649px;
-}
+
 /*************** BANNER ********************/
 .banner {
   /* padding-top: 105px; */
@@ -137,7 +132,7 @@ body {
   background-image: url("../images/Group\ 17.svg");
   background-size: 697px 649px;
   background-repeat: no-repeat;
-  background-position: 100% -100px;
+  background-position: calc(50% + 500px) -100px;
 }
 
 .banner-left {
@@ -198,6 +193,10 @@ body {
 .about {
   padding-top: 305px;
   padding-bottom: 158px;
+  background-image: url("../images/Group\ 17.svg");
+  background-size: 1080px 649px;
+  background-position: calc(50% - 1111px) -50%;
+  background-repeat: no-repeat;
 }
 
 .line {
