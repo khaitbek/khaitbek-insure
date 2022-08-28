@@ -1,0 +1,26 @@
+{
+  "name": "khaitbek-insure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:html": "npx -p parcel parcel src/*.html",
+    "build:html": "npx -p parcel parcel build src/*.html",
+    "watch:sass": "sass --watch src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaitbek/khaitbek-insure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaitbek/khaitbek-insure/issues"
+  },
+  "homepage": "https://github.com/khaitbek/khaitbek-insure#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}

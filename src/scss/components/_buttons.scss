@@ -1,0 +1,11 @@
+@use "../abstracts/mixins" as *;
+
+.btn-light{
+    @include defaultBtn(12px 25px,transparent,1.5px solid var(--clr-primary-200));
+    @include hover(300ms,var(--clr-primary-200),var(--clr-neutral-100));
+}
+
+.banner__link{
+    @include defaultBtn(12px 25px, transparent, 1.5px solid var(--clr-neutral-100),var(--clr-neutral-100));
+    @include hover(300ms, var(--clr-neutral-100),var(--clr-primary-200));
+}

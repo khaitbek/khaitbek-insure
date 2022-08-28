@@ -1,0 +1,44 @@
+@use "./media_queries" as *;
+
+@mixin mq($key){
+    $size:map-get($breakpoints, $key);
+
+    @media only screen and (min-width:$size){
+        @content;
+    }
+}
+
+@mixin hover($transition:300ms,$bg:null,$color:null){
+    &:hover{
+        transition: background $transition ease-in-out, color $transition ease-in-out;
+        @if($bg){
+            background-color: $bg;
+        }
+        @if($color){
+            color: $color;
+        }
+    }
+}
+
+@mixin pseudo($loc:before){
+    &::#{$loc}{
+        content: "";
+    }
+}
+
+@mixin defaultBtn($padding:13px 29px,$background:transparent, $border:1.5px solid var(--clr-neutral-100),$color:var(--clr-primary-200),$fz:var(--fz-100),$fw:var(--fw-200)){
+    padding: $padding;
+    background-color: $background;
+    color: $color;
+    font-size: $fz;
+    font-weight: $fw;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    border: $border;
+}
+
+@mixin defaultList($ls:none){
+    list-style: $ls;
+    padding-left: 0;
+}
