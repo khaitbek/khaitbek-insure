@@ -1,0 +1,2 @@
+const elHamburger=document.querySelector(".hamburger"),elNavigation=document.querySelector(".navigation");elHamburger.addEventListener("click",(()=>{if(elHamburger.toggleAttribute("toggleNav"),elNavigation.classList.contains("show"))return elNavigation.classList.add("closing"),void elNavigation.addEventListener("animationend",(()=>{elNavigation.classList.remove("closing"),elNavigation.classList.remove("show")}),{once:!0});elNavigation.classList.add("show")}));
+//# sourceMappingURL=index.06673d85.js.map

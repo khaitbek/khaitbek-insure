@@ -2,7 +2,6 @@
   "name": "khaitbek-insure",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "run:html": "npx -p parcel parcel src/*.html",
     "build:html": "npx -p parcel parcel build src/*.html",
