@@ -1,18 +1,30 @@
-4393
-75/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.dface521.js1661533507707865111 0
-78/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/circles.94470a7f.svg1661533507691199118 0
+4423
+75/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.dface521.js1661745653163127529 0
+75/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.06673d85.js1661703255279422065 0
+107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/dm-serif-display-v10-latin-regular.e76a6ef8.woff21661703254049424011 0
+78/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/circles.94470a7f.svg1661745653146460475 0
 79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Group 17.1ed2a7e4.svg1661507179654753929 0
-77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about3.43da0402.svg1661533507684532720 0
-90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-twitter-logo.88c3ada5.svg1661533507684532720 0
-106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/dm-serif-display-v10-latin-regular.6036f07d.woff1661533507671199925 0
-85/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/khaitbek-insure.59712999.js1661533507707865111 0
-89/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/khaitbek-insure.59712999.js.map1661533507711198310 0
-68/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.html1661533507681199521 0
-107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/dm-serif-display-v10-latin-regular.9d3527fd.woff21661533507687865919 0
-91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-700.a2f63415.woff1661533507671199925 0
-91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-intagram-logo.06325d01.svg1661533507684532720 0
-92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-700.b08bfa73.woff21661533507687865919 0
-57/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist1661533747207573790 1
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about3.43da0402.svg1661745653159794118 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about1.dcef715f.svg1661703255279422065 0
+92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-pinterest-logo.61a89b5c.svg1661703255276088737 0
+80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap@2x.a99834b4.png1661745653173127761 0
+90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-twitter-logo.88c3ada5.svg1661533791665522047 0
+92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-700.c063e76c.woff21661703254049424011 0
+106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/dm-serif-display-v10-latin-regular.6036f07d.woff1661745653146460475 0
+80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap@2x.e516525b.png1661703254866089386 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap.eb6c457e.png1661745653169794350 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-intagram-logo.61885a5b.svg1661703254909422650 0
+85/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/khaitbek-insure.59712999.js1661745653163127529 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-intagram-logo.2875ed21.svg1661744752186448503 0
+89/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/khaitbek-insure.59712999.js.map1661745653173127761 0
+68/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.html1661745653146460475 0
+107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/dm-serif-display-v10-latin-regular.9d3527fd.woff21661745653146460475 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-700.a2f63415.woff1661745653146460475 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-intagram-logo.06325d01.svg1661533791665522047 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-facebook-logo.70a9ee13.svg1661703255276088737 0
+92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-700.b08bfa73.woff21661745653146460475 0
+96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-regular.80fe798a.woff21661703254049424011 0
+57/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist1661746559967811963 1
 77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/script/navigation.js1661479997574642765 0
 63/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/script1661477526065527881 1
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/abstracts/_variables.scss1661447408957868249 0
@@ -22,13 +34,13 @@
 93/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/about_section/about2.svg1661533302877374470 0
 79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/Bitmap.png1661425725253022046 0
 84/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/insure-logo.svg1661425725253022046 0
-106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-intagram-logo.svg1661425725259688706 0
-105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-twitter-logo.svg1661425725259688706 0
+106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-intagram-logo.svg1661744752103112560 0
+105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-twitter-logo.svg1661744710028490311 0
 81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos1661425725259688706 1
-83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_articles.scss1661532100105129628 0
+83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_articles.scss1661746003404040818 0
 79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_hero.scss1661426717028665486 0
-81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_header.scss1661480323338106624 0
-80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_about.scss1661533786861686768 0
+81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_header.scss1661746559814477743 0
+80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_about.scss1661534412629996988 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/fonts/karla-v22-latin-700.woff21661425725209688758 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/fonts/rubik-v20-latin-regular.woff1661425725213022088 0
 103/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/fonts/dm-serif-display-v10-latin-regular.woff21661425725209688758 0
@@ -36,7 +48,7 @@
 69/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/css/main.css1661514825565788238 0
 73/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/css/main.css.map1661514825565788238 0
 56/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src1661514825565788238 1
-65/home/khaitbek/Desktop/sass_projects/khaitbek-insure/package.json1661444962540269392 0
+65/home/khaitbek/Desktop/sass_projects/khaitbek-insure/package.json1661703248396099601 0
 72/home/khaitbek/Desktop/sass_projects/khaitbek-insure/public/css/main.css1661506790012307886 0
 59/home/khaitbek/Desktop/sass_projects/khaitbek-insure/public1661432439839547127 1
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/lines-and-columns/build/index.d.ts1661425948712790423 0
@@ -105,6 +117,7 @@
 83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/yaml/types/set.js1661425948946123514 0
 86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/yaml/types/binary.js1661425948712790423 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/picomatch/lib/utils.js1661444962460269540 0
+78/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/circles.7015f94c.svg1661703254909422650 0
 79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/picomatch/lib1661444962460269540 1
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/picomatch/CHANGELOG.md1661444962460269540 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/picomatch/package.json1661444962460269540 0
@@ -112,6 +125,7 @@
 86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ordered-binary/tests1661425948732790402 1
 90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ordered-binary/README.md1661425948792790340 0
 85/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ordered-binary/dist1661425948666123804 1
+87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/footer_circles.svg1661745280145807074 0
 89/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ordered-binary/index.js1661425948699457103 0
 102/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ordered-binary/assets/powers-dre.png1661425948809456989 0
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ordered-binary/assets1661425948796123670 1
@@ -131,6 +145,7 @@
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml/package.json1661425948696123773 0
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml/node_modules/posthtml-parser/readme.md1661425948726123742 0
 126/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1661425948676123794 0
+106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/dm-serif-display-v10-latin-regular.1ef0027f.woff1661703253669424611 0
 108/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml/node_modules/posthtml-parser/dist1661425948736123732 1
 103/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml/node_modules/posthtml-parser1661425948712790423 1
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml/node_modules1661425944506128107 1
@@ -240,7 +255,7 @@
 105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/src/_non_iterable_rest.mjs1661425949042790081 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/src/_construct.mjs1661425949016123442 0
 108/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/src/_wrap_async_generator.mjs1661425949066123390 0
-77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about1.1e24cd99.svg1661533507684532720 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about1.1e24cd99.svg1661745653159794118 0
 99/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/src/_ts_metadata.mjs1661425949062790061 0
 117/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/src/_iterable_to_array_limit_loose.mjs1661425949036123422 0
 93/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/lines-and-columns/README.md1661425948702790433 0
@@ -331,7 +346,7 @@
 83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/term-size/license1661425948696123773 0
 108/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/type-fest/source/require-at-least-one.d.ts1661425948902790226 0
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/type-fest/source/iterable-element.d.ts1661425948846123618 0
-96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-regular.8ad494ec.woff21661533507687865919 0
+96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-regular.8ad494ec.woff21661745653146460475 0
 103/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/type-fest/source/merge-exclusive.d.ts1661425948862790267 0
 107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/type-fest/source/require-exactly-one.d.ts1661425948906123556 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/type-fest/source/utilities.d.ts1661425948926123535 0
@@ -356,6 +371,7 @@
 99/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/mdn-data/css/at-rules.schema.json1661425948769457031 0
 92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/mdn-data/css/syntaxes.json1661425948926123535 0
 93/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/mdn-data/css/selectors.json1661425948922790205 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-700.fa55e884.woff1661703253669424611 0
 92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/mdn-data/css/at-rules.json1661425948749457051 0
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/mdn-data/css/properties.json1661425948912790216 0
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/mdn-data/package.json1661425948862790267 0
@@ -377,6 +393,7 @@
 75/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@trysound1661425944506128107 1
 107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/packager-html/src/HTMLPackager.js1661425948712790423 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/packager-html/src1661425948689457113 1
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap.3232d71c.png1661703255219422160 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/packager-html/package.json1661425948732790402 0
 95/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/packager-html/LICENSE1661425948636123835 0
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/packager-html1661425948722790412 1
@@ -780,7 +797,7 @@
 123/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/workers/test/integration/workerfarm/master-sum.js1661425948879456917 0
 117/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/workers/test/integration/workerfarm/echo.js1661425948842790288 0
 98/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/workers/test/integration1661425948792790340 1
-92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-pinterest-logo.caf37f33.svg1661533507691199118 0
+92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-pinterest-logo.caf37f33.svg1661533791688857820 0
 81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/workers1661425948942790185 1
 105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/css-linux-x64-musl/package.json1661425948632790505 0
 95/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/types/lib/unsafe.d.ts1661425948802790329 0
@@ -901,7 +918,7 @@
 140/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-exclude1661425949106123349 1
 155/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module-fallback/package.json1661425949112790009 0
 150/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module-fallback/main.js1661425949066123390 0
-106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-facebook-logo.svg1661425725259688706 0
+106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-facebook-logo.svg1661744682964363264 0
 142/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module-fallback1661425949112790009 1
 118/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules1661425949099456689 1
 112/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/nested1661425949096123359 1
@@ -995,7 +1012,7 @@
 89/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/fs/src/types.js1661425948849456948 0
 92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/fs/src/MemoryFS.js1661425948826123639 0
 93/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/fs/src/OverlayFS.js1661425948842790288 0
-80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.b10d73a7.css.map1661533747207573790 0
+80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.b10d73a7.css.map1661746559967811963 0
 80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/fs/src1661425948842790288 1
 84/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/fs/LICENSE1661425948676123794 0
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/fs/index.d.ts1661425948909456886 0
@@ -1004,7 +1021,7 @@
 99/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/lib/applyRuntimes.js1661425948906123556 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/lib/loadDotEnv.js1661425949046123411 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/lib/Dependency.js1661425949002790123 0
-91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-facebook-logo.ed97c1c4.svg1661533507691199118 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-facebook-logo.ed97c1c4.svg1661533791688857820 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/immutable/dist/immutable.es.js1661444962463602867 0
 108/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/lib/serializerCore.browser.js1661425949102790019 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/lib/PackagerRunner.js1661425949059456731 0
@@ -1321,7 +1338,7 @@
 101/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/const.js1661425949052790071 0
 119/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/registerprotocolhandler.js1661425949192789926 0
 105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/dragndrop.js1661425949142789978 0
-67/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/index.html1661533005286145229 0
+67/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/index.html1661744784084126667 0
 110/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/lib/_class_private_field_set.js1661425948872790257 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/watcher/src/Backend.cc1661425948676123794 0
 114/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/css-cascade-layers.js1661425949072790050 0
@@ -1330,6 +1347,7 @@
 118/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/keyboardevent-location.js1661425949169456617 0
 81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml-render1661425948719457082 1
 112/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/css-nth-child-of.js1661425949109456679 0
+90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-twitter-logo.1901d488.svg1661744710105159271 0
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/workers/src/Trace.js1661425948926123535 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-select/lib/general.js1661425948769457031 0
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/namevalue-storage.js1661425949182789937 0
@@ -1540,13 +1558,14 @@
 80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-select/lib1661425948922790205 1
 83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/chokidar/index.js1661444962460269540 0
 115/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/http-live-streaming.js1661425949159456627 0
+82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-logo.4fc0cf73.svg1661703254909422650 0
 76/home/khaitbek/Desktop/sass_projects/khaitbek-insure/public/css/main.css.map1661481683991426129 0
 101/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/watcher/src/watchman/IPC.hh1661425948906123556 0
 92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/plugins/mergePaths.js1661425948932790195 0
 105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/wake-lock.js1661425949212789905 0
 102/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-tree/lib/syntax/node/Selector.js1661425949079456710 0
 105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/png-alpha.js1661425949189456596 0
-77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about2.b228cc70.svg1661533507691199118 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about2.b228cc70.svg1661745653146460475 0
 106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/runtime-browser-hmr/package.json1661425948826123639 0
 99/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/sxg.js1661425949206123246 0
 123/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@jridgewell/gen-mapping/dist/types/sourcemap-segment.d.ts1661425948842790288 0
@@ -1635,7 +1654,7 @@
 102/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/webgl2.js1661425949212789905 0
 101/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/webxr.js1661425949216123235 0
 84/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-releases/data1661425948729457072 1
-95/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-regular.9aca5275.woff1661533507671199925 0
+95/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-regular.9aca5275.woff1661745653146460475 0
 115/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/dom-serializer/node_modules/entities/package.json1661425948806123659 0
 143/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/module.js1661425949069456720 0
 108/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/cryptography.js1661425949062790061 0
@@ -1770,7 +1789,7 @@
 117/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/subresource-integrity.js1661425949202789916 0
 83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/js-tokens/LICENSE1661425948679457124 0
 86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/fill-range/README.md1661444962430269596 0
-107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-pinterest-logo.svg1661425725259688706 0
+107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images/social-logos/insure-pinterest-logo.svg1661744736295954857 0
 84/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-select/LICENSE1661425948626123846 0
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-tree/lib/tokenizer/char-code-definitions.js1661425948862790267 0
 85/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/fill-range/index.js1661444962426936268 0
@@ -1851,6 +1870,7 @@
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/csso/lib/restructure/7-mergeRuleset.js1661425948779457020 0
 114/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/css-touch-action-2.js1661425949122789998 0
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/createimagebitmap.js1661425949059456731 0
+79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.06673d85.js.map1661703255329421986 0
 86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/ansi-styles/index.js1661425948666123804 0
 114/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/keyboardevent-code.js1661425949169456617 0
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml-parser/package.json1661425948709457093 0
@@ -1860,6 +1880,7 @@
 128/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/abortcontroller-polyfill/dist/abortcontroller-polyfill-only.js1661425948709457093 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/css/node/index.js.flow1661425948672790464 0
 107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/import-maps.js1661425949162789957 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about3.bdf3a3c0.svg1661703255279422065 0
 115/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/runtime-js/lib/helpers/bundle-manifest.js1661425948722790412 0
 82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/src1661425949119456669 1
 81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/is-json/LICENSE1661425948679457124 0
@@ -2011,6 +2032,7 @@
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/src/requests/BundleGraphRequest.js1661425948979456813 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/TG.js1661425949206123246 0
 108/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/htmlnano/lib/modules/removeOptionalTags.js1661425948896123566 0
+76/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.f6c44784.css1661703255279422065 0
 117/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.umd.js.map1661425948712790423 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/CD.js1661425949022790102 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/NZ.js1661425949182789937 0
@@ -2362,8 +2384,9 @@
 82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/is-glob/index.js1661444962426936268 0
 105/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/transformer-babel/src/babel7.js1661425948699457103 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/JO.js1661425949166123287 0
-68/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images1661507410507816449 1
+68/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/images1661745315196319334 1
 89/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-releases/README.md1661425948772790361 0
+85/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/footer_circles.1f82110d.svg1661745653146460475 0
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/src/_skip_first_generator_next.mjs1661425949052790071 0
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/nth-check/lib/esm/index.d.ts1661425948862790267 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/BD.js1661425948969456824 0
@@ -2372,7 +2395,7 @@
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@jridgewell/trace-mapping/package.json1661425948706123763 0
 83/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/anymatch/index.js1661444962426936268 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/RO.js1661425949192789926 0
-86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/components/_buttons.scss1661514825495782272 0
+86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/components/_buttons.scss1661746315803999281 0
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/wai-aria.js1661425949212789905 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/tslib/CopyrightNotice.txt1661425948809456989 0
 103/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/portals.js1661425949189456596 0
@@ -2920,7 +2943,7 @@
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/src/utils.js1661425949116123339 0
 103/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/dataset.js1661425949136123318 0
 101/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-tree/lib/syntax/atrule/media.js1661425949056123401 0
-80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap@2x.c1048e6b.png1661533507707865111 0
+80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap@2x.c1048e6b.png1661533791678856774 0
 76/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/source-map1661425948859456938 1
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/VG.js1661425949212789905 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/avif.js1661425948956123504 0
@@ -2974,7 +2997,7 @@
 82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/msgpackr-extract1661425948916123546 1
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/GW.js1661425949159456627 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/AG.js1661425948836123628 0
-81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_footer.scss1661426717028665486 0
+81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/scss/layout/_footer.scss1661745765775804375 0
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/jpeg2000.js1661425949166123287 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/AM.js1661425948922790205 0
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/transformer-html/lib/inline.js1661425948766123701 0
@@ -3064,7 +3087,7 @@
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/lib/svgo/jsAPI.js1661425948932790195 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/dotenv-expand/dotenv-expand.png1661425948666123804 0
 90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/lmdb/src/compression.cpp1661425949059456731 0
-63/home/khaitbek/Desktop/sass_projects/khaitbek-insure/.gitignore1661431277602684903 0
+63/home/khaitbek/Desktop/sass_projects/khaitbek-insure/.gitignore1661703283239377487 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/UZ.js1661425949212789905 0
 87/home/khaitbek/Desktop/sass_projects/khaitbek-insure/src/fonts/rubik-v20-latin-500.woff1661425725213022088 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/types/index.js1661425948709457093 0
@@ -3158,7 +3181,7 @@
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/regions/KE.js1661425949169456617 0
 85/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/buffer-from/LICENSE1661425948626123846 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-addon-api/tools/check-napi.js1661425948872790257 0
-82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-logo.22c94eae.svg1661533507684532720 0
+82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-logo.22c94eae.svg1661533791665522047 0
 106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@swc/helpers/lib/_to_consumable_array.js1661425948962790164 0
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-addon-api/noexcept.gypi1661425948696123773 0
 132/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias1661425949106123349 1
@@ -3189,6 +3212,7 @@
 117/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@babel/highlight/node_modules/color-convert/LICENSE1661425948726123742 0
 79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/clone/LICENSE1661425948686123783 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-gyp-build/LICENSE1661425948629457175 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/about2.63350efd.svg1661703254909422650 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/csso/lib/replace/property1661425948952790174 1
 89/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-gyp-build/index.js1661425948682790454 0
 90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/node-gyp-build/README.md1661425948729457072 0
@@ -3326,6 +3350,7 @@
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/plugins/convertEllipseToCircle.js1661425948896123566 0
 107/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/packager-html/lib/HTMLPackager.js1661425948676123794 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/is-arrayish/.npmignore1661425948666123804 0
+92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-pinterest-logo.f3ec0f01.svg1661744736375957324 0
 92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/plugins/reusePaths.js1661425948992790133 0
 112/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js1661425948966123494 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/plugins/removeUnusedNS.js1661425948979456813 0
@@ -3369,7 +3394,7 @@
 79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/lib/svgo1661425949039456752 1
 95/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/react-refresh/build-info.json1661425948792790340 0
 76/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/parse-json1661425948672790464 1
-76/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.b10d73a7.css1661533747207573790 0
+76/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.b10d73a7.css1661746559967811963 0
 90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/lib/svgo/jsAPI.d.ts1661425949042790081 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/src/ReporterRunner.js1661425949092790029 0
 86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/lib/svgo/coa.js1661425948866123597 0
@@ -3763,6 +3788,7 @@
 99/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@jridgewell/resolve-uri/README.md1661425948749457051 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-what/lib/es/types.d.ts.map1661425948872790257 0
 90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-what/lib/es/index.js1661425948726123742 0
+82/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-logo.f7153ad2.svg1661745653146460475 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/src/AssetGraph.js1661425948926123535 0
 96/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-what/lib/es/stringify.d.ts1661425948899456896 0
 110/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/rel-noreferrer.js1661425949192789926 0
@@ -3815,7 +3841,7 @@
 81/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/yaml/index.d.ts1661425948976123483 0
 115/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-tree/lib/syntax/node/PseudoElementSelector.js1661425949076123380 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/css-tree/lib/syntax/node/CDC.js1661425948839456958 0
-77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap.028e396f.png1661533507707865111 0
+77/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/Bitmap.028e396f.png1661533791692191502 0
 126/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/keyboardevent-getmodifierstate.js1661425949169456617 0
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml-parser/changelog.md1661425948729457072 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/posthtml-parser/readme.md1661425948762790371 0
@@ -3843,6 +3869,7 @@
 94/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/svgo/plugins/minifyStyles.js1661425948936123525 0
 84/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/timsort/.npmignore1661425948666123804 0
 84/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/timsort/LICENSE.md1661425948696123773 0
+91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-facebook-logo.fc393080.svg1661744683057699278 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/timsort/src/timsort.js1661425948779457020 0
 106/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/type-fest/source/fixed-length-array.d.ts1661425948832790298 0
 92/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/optimizer-svgo/lib1661425948666123804 1
@@ -4094,6 +4121,7 @@
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/json5/lib/unicode.d.ts1661425948902790226 0
 117/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.c1661425948956123504 0
 88/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/json5/lib/stringify.js1661425948816123649 0
+95/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/karla-v22-latin-regular.63b57dca.woff1661703253669424611 0
 125/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/core/test/fixtures/application-targets/package.json1661425949126123328 0
 86/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/json5/lib/index.d.ts1661425948896123566 0
 113/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/@parcel/transformer-json/lib/JSONTransformer.js1661425948676123794 0
@@ -4167,12 +4195,14 @@
 90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/package.json1661425948779457020 0
 98/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/ExplorerSync.js1661425948709457093 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/ExplorerSync.d.ts1661425948912790216 0
+80/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.f6c44784.css.map1661703255329421986 0
 63/home/khaitbek/Desktop/sass_projects/khaitbek-insure/public/css1661446752974091543 1
 109/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts.map1661425948852790278 0
-79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.dface521.js.map1661533507711198310 0
+79/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/index.dface521.js.map1661745653173127761 0
 104/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/getDirectory.d.ts.map1661425948842790288 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/dom-serializer/lib/esm/index.js1661425948726123742 0
 97/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/types.d.ts.map1661425948896123566 0
+90/home/khaitbek/Desktop/sass_projects/khaitbek-insure/dist/insure-twitter-logo.b5476aa5.svg1661703254909422650 0
 91/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/index.js1661425948739457062 0
 100/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/caniuse-lite/data/features/ping.js1661425949189456596 0
 98/home/khaitbek/Desktop/sass_projects/khaitbek-insure/node_modules/cosmiconfig/dist/ExplorerBase.js1661425948696123773 0

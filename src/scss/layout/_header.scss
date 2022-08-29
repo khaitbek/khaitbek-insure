@@ -46,10 +46,11 @@
 
 .navigation {
   position: fixed;
-  z-index: 3;
+  z-index: 5;
   left: 0;
   right: 0;
   top: 100px;
+  bottom: 0;
   display: grid;
   place-items: center;
   padding-block: 40px 300px;
@@ -60,6 +61,14 @@
 .navigation.show{
   display: grid;
   animation: fade-in 500ms forwards,slide-in 1s forwards;
+  background-image: url("./images/circles.svg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  background-position: left calc(50% + 10px) bottom -85%;
+}
+
+.navigation.show .navigation__link{
+  color: var(--clr-neutral-100);
 }
 
 .navigation.closing{
@@ -86,6 +95,7 @@
   text-align: center;
   font-size: 20px;
 }
+
 
 @include mq(tablet){
   .hamburger{

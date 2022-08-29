@@ -1,7 +1,12 @@
 @use "../abstracts/mixins";
 
 .site-article{
+    margin-bottom: 150px;
     padding:24px 72px;
+    background-image: url("./images/circles.svg");
+    background-position: right -300px top -200px;
+    background-size: 697px;
+    background-repeat: no-repeat;
 }
 
 .site-article__inner{
